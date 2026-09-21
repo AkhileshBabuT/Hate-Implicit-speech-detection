@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using this metadata."
+title: "Representation Matters: Cross-Dataset Analysis of Implicit Hate Speech Detection Methods"
+type: report
+authors:
+  - family-names: Dhalwani
+    given-names: Pranay
+  - family-names: Konduru
+    given-names: Lokesh Varma
+  - family-names: Tumati
+    given-names: Akhilesh Babu
+institution:
+  name: Virginia Polytechnic Institute and State University
+date-released: 2025-12-07
+keywords:
+  - natural language processing
+  - implicit hate speech
+  - cross-dataset generalization
+  - adversarial training
+  - contrastive learning
+
