@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use or reference this project, please cite it using this metadata."
 title: "Representation Matters: Cross-Dataset Analysis of Implicit Hate Speech Detection Methods"
-type: report
+type: software
 authors:
   - family-names: Dhalwani
     given-names: Pranay
