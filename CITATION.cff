@@ -1,19 +1,14 @@
 cff-version: 1.2.0
 message: "If you use or reference this project, please cite it using this metadata."
 title: "Representation Matters: Cross-Dataset Analysis of Implicit Hate Speech Detection Methods"
-type: software
 authors:
   - family-names: Dhalwani
     given-names: Pranay
-    affiliation: Virginia Polytechnic Institute and State University
   - family-names: Konduru
     given-names: Lokesh Varma
-    affiliation: Virginia Polytechnic Institute and State University
   - family-names: Tumati
     given-names: Akhilesh Babu
-    affiliation: Virginia Polytechnic Institute and State University
 date-released: 2025-12-07
-repository-code: "https://github.com/AkhileshBabuT/Hate-Implicit-speech-detection"
 keywords:
   - natural language processing
   - implicit hate speech
